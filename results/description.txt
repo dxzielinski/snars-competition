@@ -1,0 +1,8 @@
+Dominik Zieliński
+https://github.com/dxzielinski/snars-competition
+D1-K=2.csv, 0.003811
+D1-UNC.csv, 0.011915
+D2-K=7.csv, 0.013996
+D2-UNC.csv, 0.015926
+D3-K=12.csv, 0.034321
+D3-UNC.csv, 0.008589
